@@ -16,7 +16,7 @@ Follow these steps to get started with Torch on your PC:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/Pratyush-developers/Torch-for-P.C.git
+   git clone https://github.com/pratyush0898/Torch-for-P.C.git
    ```
 
 2. **Installation Guide**: Refer to the installation guide in the repository for detailed instructions on setting up Torch on your PC.
